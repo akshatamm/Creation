@@ -1,7 +1,13 @@
-public class test{
+public class HelloWorld{
 
 
+public static void main()
 
-SOP
+{
+
+System.out.println("Hello World");
+
+}
+
 
 }
